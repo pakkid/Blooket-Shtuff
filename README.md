@@ -1,5 +1,5 @@
 <p align="center">Cheats made by someone who knows more about what they're doing</p>
-<small align="senter"><b>DISCLAIMER!</b> These cheats are NOT made by myself and are just a clone of another repo. I CANNOT guarantee that these cheats will work with the current version of Blooket.</small>
+<small align="center"><b>DISCLAIMER!</b> These cheats are NOT made by myself and are just a clone of another repo. I CANNOT guarantee that these cheats will work with the current version of Blooket.</small>
 <h3 align="center"><a href="tutorial/readme.md">Instructions for importing bookmarklets</a></h2>
 
 ## Information
